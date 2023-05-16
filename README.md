@@ -11,8 +11,8 @@
   - PSM I
 
 - 🗣️Languages:
-  - 🇵🇱 Polish (native)
-  - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English (C1)
+  - 🇵🇱 Polish
+  - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English
 
 - 👨‍🎓 I’m currently learning:
   - AZ-104 cert
