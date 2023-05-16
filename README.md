@@ -1,16 +1,20 @@
 ### Hi there 👋
+- 🖥️ My tech stack:
 
-<!--
-**PLJanicki/PLJanicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| linux | bash | git | gitlab ci/cd | docker | azure | ansible | teleport | prometheus | nexus | jira | devops |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|---|---|---|---|---|
+| macos | python | accurev | github actions | k8s |  | terraform |  | victoria metrics |  | confluence | agile |
+| windows |  |  | jenkins | argo-cd |  |  |  | grafana |  |  |  |
 
-Here are some ideas to get you started:
+- 📰 Certs:
+  - AZ-900
+  - PSM I
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🗣️Languages:
+  - 🇵🇱 Polish (native)
+  - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English (C1)
+
+- 👨‍🎓 I’m currently learning:
+  - AZ-104 cert
+  - CKA cert
+
