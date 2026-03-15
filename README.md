@@ -11,6 +11,7 @@
 ---
 
 ### 🔭 Currently working on
+- **Cloud Infrastructure** on **Azure** with **Terraform**
 - **Python FastAPI** & **Kubernetes** orchestration
 - **GitOps** with **ArgoCD** and **Terraform**
 - **CI/CD** pipelines with **GitHub Actions**, **Snyk**, and **Trivy**
@@ -22,7 +23,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,docker,kubernetes,terraform,githubactions,fastapi,grafana,prometheus,git,bash,linux,ai" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=py,docker,kubernetes,terraform,githubactions,azure,fastapi,grafana,prometheus,git,bash,linux,ai" alt="My Skills" />
 </p>
 
 <p align="center">
