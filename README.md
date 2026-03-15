@@ -18,6 +18,10 @@
 - **Monitoring & Observability** with **Grafana** and **Prometheus**
 - **GitHub Agentic Workflows** & AI-driven automation
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Primary%20Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Primary Language" />
+</p>
+
 ---
 
 ### 🛠️ Tech Stack
